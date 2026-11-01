@@ -1,0 +1,15 @@
+PERFIL 0.2.1 — correções solicitadas
+
+Esta versão:
+- Mantém a bio e as frases conforme o texto do perfil enviado.
+- Deixa apenas um tópico "Cargos", com Suporte e Staff lado a lado.
+- Inclui os quatro arquivos de imagem usados pelo site.
+
+ATUALIZAÇÃO NO GITHUB:
+1. Extraia este ZIP no celular.
+2. Abra o repositório king-profile e escolha Add file > Upload files.
+3. Envie index.html, banner.jpg, avatar.jpg, server_srdark.jpg e server_blox.jpg.
+4. Confirme a substituição dos arquivos e toque em Commit changes.
+5. Todos os cinco arquivos devem ficar diretamente na raiz do repositório (não dentro de uma pasta).
+
+Não é necessário enviar o próprio ZIP.
